@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunit-assessment", "xunit-assessment\xunit-assessment.csproj", "{C0D8AAB8-2296-401E-B0E8-1B1519B37E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D8AAB8-2296-401E-B0E8-1B1519B37E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D8AAB8-2296-401E-B0E8-1B1519B37E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D8AAB8-2296-401E-B0E8-1B1519B37E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D8AAB8-2296-401E-B0E8-1B1519B37E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F85D28F-94E8-471E-993C-7FE4C6C52D02}
+	EndGlobalSection
+EndGlobal
